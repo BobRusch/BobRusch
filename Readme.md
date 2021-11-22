@@ -34,4 +34,4 @@
 
 
 ## &nbsp;Connect with Me&nbsp;&nbsp;
-<a target="_blank" title="https://www.linkedin.com/in/rishibhachu" href="https://www.linkedin.com/in/rishibhachu"><img src="https://img.shields.io/badge/-Bob&nbsp;Rusch-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target="_blank" title="https://www.linkedin.com/in/bobrusch-webdeveloper/" href="https://www.linkedin.com/in/bobrusch-webdeveloper/"><img src="https://img.shields.io/badge/-Bob&nbsp;Rusch-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
