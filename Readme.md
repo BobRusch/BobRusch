@@ -1,7 +1,7 @@
 # Welcome to Bob Rusch's Git Repositories
 <br/>
 
-## 👨🏻‍💻 &nbsp;About Me&nbsp;
+## &nbsp;About Me&nbsp;
 - Im a Software Engineer / Web Developer / Full Stack Programmer with over 17 years experience.
 - Seeking new Fully Remote opportunities.
 - Also available for collaboration on Voluntary and Community Projects.
@@ -33,5 +33,5 @@
 
 
 
-## 🤝🏻 &nbsp;Connect with Me&nbsp;&nbsp;
+## &nbsp;Connect with Me&nbsp;&nbsp;
 <a target="_blank" title="https://www.linkedin.com/in/rishibhachu" href="https://www.linkedin.com/in/rishibhachu"><img src="https://img.shields.io/badge/-Bob&nbsp;Rusch-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
